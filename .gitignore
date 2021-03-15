@@ -1,3 +1,8 @@
+#compiled class
+*.class
+*.classpath
+*.project
+*.metadata
 # Build and Release Folders
 bin-debug/
 bin-release/
